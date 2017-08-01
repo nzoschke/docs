@@ -5,6 +5,8 @@ class = "home"
 
 ## Welcome
 
+Continuous delivery.
+
 Welcome to Convox, an application platform that offers perfect parity between development, testing and production environments.
 
 Convox helps you build and deploy apps in minutes. It all starts with a `convox.yml`, a simple configuration file that describes everything about your app. This file is the blueprint for your app architecture.
