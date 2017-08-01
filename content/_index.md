@@ -5,7 +5,7 @@ class = "home"
 
 ## Welcome
 
-Continuous delivery.
+Continuous delivery?
 
 Welcome to Convox, an application platform that offers perfect parity between development, testing and production environments.
 
